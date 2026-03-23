@@ -1,4 +1,5 @@
-<img width="976" height="706" alt="image" src="https://github.com/user-attachments/assets/6af3e05e-f7ed-4240-bf28-3a776320e522" /># Anticipating-Emerging-Technologies-through-Structure-Function-Co-evolution
+Anticipating-Emerging-Technologies-through-Structure-Function-Co-evolution
+
 Supplementary data and code for structure–function extraction, BERTopic topic identification, and technology cluster mapping in digital medical technologies
 This repository provides the supplementary materials for the study on structure–function co-evolution and technological emergence in digital medical technologies. It contains three appendices covering the Prompt-based structure–function extraction method, the extracted structure–function data, and the BERTopic-based topic modeling and clustering results.
 
